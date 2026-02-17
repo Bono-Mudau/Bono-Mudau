@@ -51,4 +51,4 @@
 - **[Fork this repository](https://github.com/Bono-Mudau/Bono-Mudau/fork)**
 - **[Star this repository](https://github.com/Bono-Mudau/Bono-Mudau)**
 - **[Create an issue](https://github.com/Bono-Mudau/Bono-Mudau/issues/new)**
-- <a href="https://github.com/hotel-booking-devs/Syndicate-Hotel.gi"><kbd>🔬 Check out the Syndicate hotel website</kbd></a>
+- <a href="https://github.com/hotel-booking-devs/Syndicate-Hotel.git"><kbd>🔬 Check out the Syndicate hotel website</kbd></a>
