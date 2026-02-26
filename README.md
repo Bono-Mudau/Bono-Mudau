@@ -9,7 +9,7 @@ I aspire to build a career as a Software Engineer, where I can apply my technica
 - **Date of commencement** : 26 January  2023 
 - **Date of Completion** : 05 December 2025<br>
 - **Coursework** :
-> Introduction to Artificial Intelligence, Machine Learning 
+> Introduction to Artificial Intelligence, Machine Learning, 
 > Data Structures, Algorithms, Object-Oriented Programming, Computer Architecture, 
 > Operating Systems, Databases, Software Engineering, Computer Networking,<br> 
 ### National Senior Certificate (Matric – Bachelor’s Pass)
