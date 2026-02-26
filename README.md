@@ -1,8 +1,7 @@
 ## Personal Introduction
-  My name is **Phungo Genuwine**, I am a **Computer Science graduate from the University of the Western Cape (UWC)**. 
-  I am currently pursuing my **Honours degree in Computer Science at UWC**. 
-  My career goal is to become a software engineer, where I can leverage my skills to develop innovative solutions.
-  I am particularly interested in roles that challenge me to solve complex problems.
+My name is **Phungo Genuwine**, I am a **Computer Science graduate from the University of the Western Cape (UWC)**. 
+I am currently pursuing my **Honours degree in Computer Science at UWC**. 
+I aspire to build a career as a Software Engineer, where I can apply my technical skills to develop innovative, reliable, and secure software solutions. I have a strong interest in software development with an emphasis on integrating cybersecurity principles into system design and implementation, as I prioritize building applications that are not only functional but also secure by design..
      
 ## 🎓 Education
 ### BSc Computer Science
