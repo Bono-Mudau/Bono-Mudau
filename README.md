@@ -18,15 +18,16 @@ I aspire to build a career as a Software Engineer, where I can apply my technica
 
 ## Skills & Interests
 ### Technical Skills
-- **Programming Languages** Java (Proficient), Python, JavaScript, HTML5, CSS, Node.js 
-- **Databases**: MySQL, Relational Database Design, Basic SQL  
-- Engineering Principles 
-- **Tools & Technologies**: Git, GitHub, VS Code
+- **Programming Languages**<br> Java, Python, JavaScript, HTML5, CSS 
+- **Frameworks**<br> Node.js
+- **Databases**:<br> MySQL, Relational Database Design, SQL   
+- **Tools & Technologies**: <br> Git, GitHub, VS Code
 ### Soft Skills
 - Strong communication and mentoring skills 
 - Team-oriented and collaborative 
 - Fast learner and adaptable to new technologies
 ### Professional interests
+- Full-Stack Software Development
 - Cybersecurity
 -  Software Engineering
    
