@@ -63,7 +63,7 @@ I have hands-on experience developing and deploying real-world applications feat
 
 ### 🧾 TrackWise – Financial Management System *(Full-Stack)*  
 🌐 https://trackwise-9l4u.onrender.com  
-🔗 https://github.com/Bono-Mudau/TrackWise  
+🔗 https://github.com/Bono-Mudau/TrackWise-  
 
 - Developed a **secure, production-level full-stack application**  
 - Implemented **JWT authentication, OTP verification, and protected routes**  
