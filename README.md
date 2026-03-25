@@ -61,7 +61,7 @@ I have hands-on experience developing and deploying real-world applications feat
 
 ## 🚀 Projects
 
-### 🧾 TrackWise – Financial Management System *(Full-Stack, Deployed)*  
+### 🧾 TrackWise – Financial Management System *(Full-Stack)*  
 🌐 https://trackwise-9l4u.onrender.com  
 🔗 https://github.com/Bono-Mudau/TrackWise  
 
