@@ -1,5 +1,5 @@
 ## 👤 Personal Introduction
-My name is **Phungo Genuwine**, a **BSc Computer Science graduate from the University of the Western Cape (UWC)**, currently pursuing my **Honours degree in Computer Science** with a focus on **Software Engineering**.
+My name is **Bono**, a **BSc Computer Science graduate from the University of the Western Cape (UWC)**, currently pursuing my **Honours degree in Computer Science** with a focus on **Software Engineering**.
 
 I am an aspiring **Software Engineer** with a strong interest in **full-stack development**, particularly in building **secure, scalable, and production-ready systems**. I focus on integrating **cybersecurity principles** into application design, ensuring systems are not only functional but also secure by design.
 
