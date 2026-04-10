@@ -1,10 +1,6 @@
 ## 👤 Personal Introduction
 My name is **Bono**, a **BSc Computer Science graduate from the University of the Western Cape (UWC)**, currently pursuing my **Honours degree in Computer Science** with a focus on **Software Engineering**.
-
-I am an aspiring **Software Engineer** with a strong interest in **full-stack development**, particularly in building **secure, scalable, and production-ready systems**. I focus on integrating **cybersecurity principles** into application design, ensuring systems are not only functional but also secure by design.
-
-I have hands-on experience developing and deploying real-world applications featuring **authentication systems (JWT, OTP), automation (cron jobs), and real-time data processing**.
-
+I am an aspiring **Software Engineer** with a strong interest in **full-stack development**, particularly in building **secure, scalable, and production-ready systems**
 ---
 
 ## 🎓 Education
@@ -51,11 +47,9 @@ I have hands-on experience developing and deploying real-world applications feat
 
 ---
 
-### 🎯 Professional Interests
-- Full-Stack Software Development  
-- Backend Engineering  
+### 🎯 Professional Interests    
+- Software Engineering
 - Cybersecurity  
-- Software Engineering  
 
 ---
 
@@ -65,7 +59,7 @@ I have hands-on experience developing and deploying real-world applications feat
 🌐 https://trackwise-9l4u.onrender.com  
 🔗 https://github.com/Bono-Mudau/TrackWise-  
 
-- Developed a **secure, production-level full-stack application**  
+- Developed a **secure, responsive full-stack application**  
 - Implemented **JWT authentication, OTP verification, and protected routes**  
 - Built **automation systems (cron jobs)** for reminders and summaries  
 - Designed **recurring transaction engine** (monthly processing)  
@@ -76,26 +70,15 @@ I have hands-on experience developing and deploying real-world applications feat
 
 ### 🛡 Web Application Firewall (WAF) – Honours Project  
 - Developing a **Node.js-based WAF** to detect and prevent **SQL injection attacks**  
-- Focused on secure request handling and backend protection  
-
+- Focused on secure request handling and backend protection 
 ---
 
 ### 🏨 Software Syndicate – Hotel Booking System (Group Project)  
 🔗 https://github.com/hotel-booking-devs/Syndicate-Hotel  
 
-- Built a responsive booking platform with authentication  
+- Developed a responsive booking hotel platform 
 - Implemented database integration using MySQL  
 - Collaborated in a team-based development environment  
 
 ---
 
-## 📌 Additional Information
-
-### 📄 Publications
-None  
-
-### 🤝 Affiliations & Memberships
-None  
- 
-
----
