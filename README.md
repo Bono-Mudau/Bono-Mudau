@@ -108,7 +108,7 @@ A collaborative full-stack hotel booking platform.
 ## 📫 Contact
 
 - GitHub: [Bono-Mudau](https://github.com/Bono-Mudau)
--  📧 Email: bonomudau@gmail.com
+-  📧 Email: bonomudau6@gmail.com
 
 
 
